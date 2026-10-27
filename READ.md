@@ -1,1 +1,2 @@
-ayam goreng
+## praktik
+saya sudah belajar membuat commit pertama
